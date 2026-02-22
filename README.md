@@ -27,5 +27,5 @@ I'm a passionate software developer specializing in **web & mobile development**
 
 ## 📫 Let’s Connect
 
-- Email: amnashah@example.com 
+- Email: amnashah4221@gmail.com 
 📫 Feel free to connect and collaborate!  
