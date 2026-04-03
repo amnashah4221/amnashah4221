@@ -3,13 +3,14 @@
 I'm a passionate software developer specializing in **web & mobile development**, with hands-on experience in **AI integration, MERN stack, and DevOps**. I enjoy building efficient, scalable applications with clean code and intuitive design.
 
 ## 🔧 Tech Stack  
-- **Languages & Databases:** JavaScript | TypeScript | SQL | C | Python  
-- **Frontend:** React | React Native | HTML | CSS | Figma (UI/UX design)  
-- **Backend & Tools:** Node.js | Express.js | Supabase | MongoDB | Microsoft SQL Server | DevOps basics  
-- **AI & ML:** LLMs integration, AI-driven projects (FYP & personal projects)
+- **Languages & Databases:** JavaScript | TypeScript | SQL | C | Python | MongoDB | Microsoft SQL Server | Supabase
+- **Frontend:** React | React Native | HTML | CSS | Tailwind CSS | Figma (UI/UX design)  
+- **Backend & APIs:** Node.js | Express.js | RESTful APIs | JWT | DevOps basics  
+- **AI & ML:** LLMs integration | LLM Integration (Llama-3.3, Groq) | NLP (Fuzzy Matching) | Voice Synthesis (STT/TTS) | Scikit-learn | AI-driven projects (FYP & personal projects)
 
 
 ## 🚀 Projects  
+- **CuraVox(Voice-Assisted AI Medical Kiosk-FYP)** – A multi-role AI Medical Kiosk for intelligent symptom screening, real-time diagnostic reporting, and seamless doctor-patient integration.
 - **ElevateAI** – AI-powered resume intelligence platform for analyzing resume for specific job roles and preparing interviews.
 - **Newshub** – Responsive news aggregation platform built with **React** and integration of multiple APIs.  
 - **CineVault** – Movie database & streaming interface with **React**.
